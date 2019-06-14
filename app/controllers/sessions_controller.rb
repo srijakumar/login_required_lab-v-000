@@ -1,5 +1,5 @@
 class SessionsController < ApplicationController
-  def current_user
+  def new
 
   end
 end
